@@ -13,6 +13,7 @@
 4. 2에서 만든 문자열의 뒤에 3에서 만든 문자열을 붙입니다. (ABBA)
 5. 4에서 만든 문자열을 반전합니다. (BAAB)
 6. 4에서 만든 문자열의 뒤에 5에서 만든 문자열을 붙입니다. (ABBABAAB)
+7. ...
 
 ## 문제 해결
 1. Q : 값이 출력되지 않습니다. 어떻게 해결하나요?  
@@ -38,6 +39,7 @@ I made this program that prints the pattern
 4. Attach the string created in 3 after the string created in 2. (ABBA)
 5. Change A to B and B to A. (BAAB)
 6. Attach the string created in 5 after the string created in 4. (ABBABAAB)
+7. ...
 
 ## Troubleshooting
 1. Q : Nothing printed.  
