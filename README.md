@@ -32,7 +32,9 @@ A : 음... 왜 이게 출력되는지 저도 모르겠습니다.
 Warning : Sorry for my English.**
 ## What is it?
 When I was 5 years old, I thought about this pattern.  
-I made this program that prints the pattern
+I made this program that prints the pattern  
+This is the pattern.
+
 1. Remember the two letters. The first one is A, and the second one is B.
 2. Write A and B. (AB)
 3. Change A to B and B to A. (BA)
